@@ -1,4 +1,4 @@
-# gishbot-shimeji
+# Gishbot Shimeji character
 GISH 2021: A Shimeji of Gishbot for Team Llama-nomenal
 
 This is meant to be used with [Shimeji-ee](https://kilkakon.com/shimeji/)
